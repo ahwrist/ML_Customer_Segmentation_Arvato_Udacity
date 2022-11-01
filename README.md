@@ -33,4 +33,4 @@ Special thanks to Arvato and the entire Udacity team involved in the development
 
 # Author
 - Andrew Wrist
-- LinkedIn: (https://www.linkedin.com/in/awrist/)
+- LinkedIn: https://www.linkedin.com/in/awrist/
