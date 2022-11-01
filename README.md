@@ -4,13 +4,14 @@ In this project, demographics data was analyzed for customers of a mail-order sa
 
 # Table of Contents
 
-- **[Project Jupiter Notebook](Arvato Project Workbook.ipynb)**
+- **Arvato Project Jupyter Notebook**
 	- Location for bulk of the analysis
 
-- **[Report](Report.pdf)**
+- **Report**
 	- PDF report walking through the full process and analysis
 
 - **Metadata**
+	- DIAS Attributes and DIAS Information Levels Excel Workbooks
 	- Further information about the fields in the datasets
 
 # Requirements
