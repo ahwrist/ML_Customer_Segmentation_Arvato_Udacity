@@ -4,10 +4,10 @@ In this project, demographics data was analyzed for customers of a mail-order sa
 
 # Table of Contents
 
-- **[Project Jupiter Notebook] (Arvato Project Workbook.ipynb)**
+- **[Project Jupiter Notebook](Arvato Project Workbook.ipynb)**
 	- Location for bulk of the analysis
 
-- **[Report] (Report.pdf)**
+- **[Report](Report.pdf)**
 	- PDF report walking through the full process and analysis
 
 - **Metadata**
