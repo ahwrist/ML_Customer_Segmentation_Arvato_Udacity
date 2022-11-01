@@ -4,10 +4,10 @@ In this project, demographics data was analyzed for customers of a mail-order sa
 
 # Table of Contents
 
-- **Project Jupiter Notebook**
+- **[Project Jupiter Notebook] (Arvato Project Workbook.ipynb)**
 	- Location for bulk of the analysis
 
-- **Report**
+- **[Report] (Report.pdf)**
 	- PDF report walking through the full process and analysis
 
 - **Metadata**
@@ -33,4 +33,4 @@ Special thanks to Arvato and the entire Udacity team involved in the development
 
 # Author
 - Andrew Wrist
-- [linkedIn] (https://www.linkedin.com/in/awrist/) }
+- LinkedIn: (https://www.linkedin.com/in/awrist/)
