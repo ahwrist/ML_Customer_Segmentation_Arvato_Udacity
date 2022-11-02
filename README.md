@@ -4,14 +4,14 @@ In this project, demographics data was analyzed for customers of a mail-order sa
 
 # Table of Contents
 
-- **Arvato Project Jupyter Notebook**
+- **[Arvato Project Workbook](https://github.com/ahwrist/ML_Customer_Segmentation_Arvato_Udacity/blob/main/Arvato%20Project%20Workbook.ipynb)**
 	- Location for bulk of the analysis
 
-- **Report**
+- **[Report](Report.pdf)**
 	- PDF report walking through the full process and analysis
 
 - **Metadata**
-	- DIAS Attributes and DIAS Information Levels Excel Workbooks
+	- [DIAS Attributes](https://github.com/ahwrist/ML_Customer_Segmentation_Arvato_Udacity/blob/main/DIAS%20Attributes%20-%20Values%202017.xlsx) and [DIAS Information](https://github.com/ahwrist/ML_Customer_Segmentation_Arvato_Udacity/blob/main/DIAS%20Information%20Levels%20-%20Attributes%202017.xlsx) Levels Excel Workbooks
 	- Further information about the fields in the datasets
 
 # Requirements
